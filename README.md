@@ -1,4 +1,5 @@
 AQUI ESTÃO AS ATIVIDADES DA AULA DE INFORMÁTICA
 
 1° ATIVIDADE - RELACIONADO À MEDIAS COM FÓRMULAS DO EXCEL
-Atividade Médias.xlsx
+
+https://github.com/LucasSanche/Fatec/blob/main/Atividade%20M%C3%A9dias.xlsx
