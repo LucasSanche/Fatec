@@ -7,12 +7,19 @@ Aqui estarão os Projetos relacionados a matéria de Informática do 1°Semestre
 🛠️ Habilidades Técnicas
 
 Python
+
 Java
+
 SQL
+
 HTML/CSS
+
 Power Platform
+
 Office 356
+
 SolidWorks
+
 Programação Ladder
 
 
