@@ -5,6 +5,7 @@ Aqui estarão os Projetos relacionados a matéria de Informática do 1°Semestre
 
 
 🛠️ Habilidades Técnicas
+
 Python
 Java
 SQL
