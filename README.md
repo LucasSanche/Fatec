@@ -1,43 +1,42 @@
-👨‍💻 Lucas Sanches Gonçalves - Portfólio Pessoal
-Olá, sou Lucas!
-Aqui estarão os Projetos relacionados a matéria de Informática do 1°Semestre do Curso de GPI.
+# 👨‍💻 LUCAS SANCHES GONÇALVES - Portfólio Pessoal
+
+### Olá, sou Lucas!  
+Repositório dedicado aos projetos de Informática do 1°Semestre do curso de GPI - FATEC. Aqui serão usadas soluções criativas e eficientes para problemas reais.
+
+---
 
 
+### 🛠️ Habilidades Técnicas
 
-🛠️ Habilidades Técnicas
+**Linguagens de Programação**  
+- Python
+- JavaScript
+- Java
+- SQL
+- HTML / CSS
 
-Python
+**Frameworks e Bibliotecas**  
+- **Angular** 
+- **API REST** 
+- **RPA** 
 
-Java
+**Ferramentas e Tecnologias**  
+- **Power Platform:** 
+- **Office 365:** 
 
-SQL
+---
 
-HTML/CSS
+### 🌟 Projetos
 
-Power Platform
+#### 1. Projeto com Dados Abertos
+> Projeto com utilizando dados públicos, para aprimoramento das habilidades em Excel
 
-Office 356
+**Fórmulas utilizadas:**  
+SOMA,SOMASE.SOMASES,MÉDIA,MÁXIMO,MÍNIMO,SE
 
-SolidWorks
-
-Programação Ladder
-
-
-
-
-🌟 Projetos 
-1. [Projeto de Dados Abertos]
-No projetos, foi pego arquivos de dados públicos, com o intuito de desenvolver as habilidades usando Excel
-
-Fórmulas utilizadas: SOMA;SOMASE;MÉDIA;MÁXIMO;MÍNIMO;SE.
-
-🔗 https://github.com/LucasSanche/Fatec/blob/main/Atividade%20M%C3%A9dias.xlsx
-
-🔗 https://github.com/LucasSanche/Fatec/blob/main/Atividade2-Lucas%20Sanches.xlsx
-
+[🔗 Link para o Arquivo](https://github.com/LucasSanche/Fatec/blob/main/Atividade2-Lucas%20Sanches.xlsx)
+[🔗 Link para o Arquivo](https://github.com/LucasSanche/Fatec/blob/main/Atividade%20M%C3%A9dias.xlsx)
 
 
-📚 Educação
-[TÉCNICO EM MECATRÔNICA]
-[TÉCNICO EM DESENVOLVIMENTO E ANÁLISE DE SISTEMAS]
+---
 
