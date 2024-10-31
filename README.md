@@ -48,7 +48,7 @@ SOMA,SOMASE.SOMASES,MÉDIA,MÁXIMO,MÍNIMO,SE
 
 [🔗 Link para o Arquivo - Atividade 3](https://github.com/LucasSanche/Fatec/blob/main/filiaisDAX.pbix)
 
-[🔗 Link para o Arquivo - Atividade 4](https://github.com/LucasSanche/Fatec/blob/main/Atividade2-Lucas%20Sanches.xlsx)
+[🔗 Link para o Arquivo - Atividade 4](https://github.com/LucasSanche/Fatec/blob/main/Atividade%204%20-%20PowerBI.pbix)
 
 ---
 
