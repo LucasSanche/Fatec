@@ -38,5 +38,17 @@ SOMA,SOMASE.SOMASES,MÉDIA,MÁXIMO,MÍNIMO,SE
 
 [🔗 Link para o Arquivo - Atividade 2](https://github.com/LucasSanche/Fatec/blob/main/Atividade2-Lucas%20Sanches.xlsx)
 
+
+#### 1. Projeto com PowerBI
+> Projeto com utilizando PowerBI, para aprimorar a montagem de visibilidades
+
+[🔗 Link para o Arquivo - Atividade 1](https://github.com/LucasSanche/Fatec/blob/main/Atividade%20M%C3%A9dias.xlsx)
+
+[🔗 Link para o Arquivo - Atividade 2](https://github.com/LucasSanche/Fatec/blob/main/Atividade2-Lucas%20Sanches.xlsx)
+
+[🔗 Link para o Arquivo - Atividade 3](https://github.com/LucasSanche/Fatec/blob/main/Atividade2-Lucas%20Sanches.xlsx)
+
+[🔗 Link para o Arquivo - Atividade 4](https://github.com/LucasSanche/Fatec/blob/main/Atividade2-Lucas%20Sanches.xlsx)
+
 ---
 
