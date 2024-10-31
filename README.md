@@ -43,15 +43,15 @@ SOMA,SOMASE.SOMASES,MÉDIA,MÁXIMO,MÍNIMO,SE
 > Projeto com utilizando PowerBI, para aprimorar a montagem de visibilidades
 
 [🔗 Link para o Arquivo - Atividade 1](https://github.com/LucasSanche/Fatec/blob/main/Aula1%20PBI.pbix)
->Aula Base da Montagem dos Indicadores
+*Aula Base da Montagem dos Indicadores
 
 [🔗 Link para o Arquivo - Atividade 2](https://github.com/LucasSanche/Fatec/blob/main/Atividade%202%20-%20PowerBI.pbix)
->Montando Indicadores com Base na planilha de Dados Abertos
+*Montando Indicadores com Base na planilha de Dados Abertos
 
 [🔗 Link para o Arquivo - Atividade 3](https://github.com/LucasSanche/Fatec/blob/main/filiaisDAX.pbix)
->Montando um KPI
+*Montando um KPI
 
 [🔗 Link para o Arquivo - Atividade 4](https://github.com/LucasSanche/Fatec/blob/main/Atividade%204%20-%20PowerBI.pbix)
->Montando um KPI com a planilha de Dados Abertos
+*Montando um KPI com a planilha de Dados Abertos
 ---
 
