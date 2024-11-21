@@ -58,6 +58,6 @@ SOMA,SOMASE.SOMASES,MÉDIA,MÁXIMO,MÍNIMO,SE
 
 *PowerApps
 
-[🔗 Link para o Arquivo - PowerApps]([https://github.com/LucasSanche/Fatec/blob/main/filiaisDAX.pbix](https://github.com/LucasSanche/Fatec/blob/main/LINK%20DO%20APP.txt))
+[🔗 Link para o Arquivo - PowerApps]([https://github.com/LucasSanche/Fatec/blob/main/filiaisDAX.pbix](https://github.com/LucasSanche/Fatec/blob/main/LINK%20DO%20APP.txt)
 ---
 
