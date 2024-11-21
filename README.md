@@ -56,6 +56,8 @@ SOMA,SOMASE.SOMASES,MÉDIA,MÁXIMO,MÍNIMO,SE
 
 [🔗 Link para o Arquivo - Atividade 4](https://github.com/LucasSanche/Fatec/blob/main/Atividade%204%20-%20PowerBI.pbix)
 
-*Montando um KPI com a planilha de Dados Abertos
+*PowerApps
+
+[🔗 Link para o Arquivo - PowerApps](https://github.com/LucasSanche/Fatec/blob/main/filiaisDAX.pbix)
 ---
 
